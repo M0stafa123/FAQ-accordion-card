@@ -14,9 +14,9 @@ body {
 body > div {
   position: relative;
   & > img {
-    left: -14%;
+    left: -12%;
     z-index: 1;
-    top: 45%;
+    top: 40%;
     position: absolute;
   }
 }
